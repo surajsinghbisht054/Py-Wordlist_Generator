@@ -1,23 +1,11 @@
-# Py-Wordlist_Generator
-
-#######################################################################
-# High Speed Wordlist Generator : Compitable To All Operating Systems #
-#######################################################################
-
-__author__='''
-
-######################################################
-                By S.S.B Group                          
-######################################################
-
+### High Speed Wordlist Generator : Compitable To All Operating Systems #
+```
     Suraj Singh
     Admin
     S.S.B Group
     surajsinghbisht054@gmail.com
     https://bitforestinfo.blogspot.in/
-
-    Note: We Feel Proud To Be Indian
-######################################################
+```
 
 # Development.
 
